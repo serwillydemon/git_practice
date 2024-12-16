@@ -6,4 +6,6 @@ This is a line I added from home.
 
 This is another addition from VS Code.
 
-This should be in the test branch.
+---This should be in the test branch.---
+
+Test branch successfully merged to main branch.
